@@ -77,4 +77,3 @@ FraudShield significantly improves fraud detection for Blocker Fraud Company, re
 
 ---
 
-**Note**: This README provides an overview of the project. For detailed implementation and code, refer to the project repository.
